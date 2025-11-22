@@ -1,2 +1,2 @@
 data/raw_analyst_ratings.csv
-data/processed/
+data/processed/*.csv
